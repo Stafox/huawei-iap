@@ -1,0 +1,10 @@
+/.DS_Store
+/.project
+/.buildpath
+/.settings/
+/.idea/
+/composer.phar
+/composer.lock
+/vendor/
+/build/logs
+demos/

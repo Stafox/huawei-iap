@@ -1,0 +1,4 @@
+{
+    "responseCode": 0,
+    "purchaseTokenData": "{\"autoRenewing\":false,\"orderId\":\"1601455440833.AA16834E.3657\",\"packageName\":\"com.huawei.app\",\"applicationId\":123456789,\"productId\":\"com.huawei.app.purchase\",\"kind\":1,\"productName\":\"Test one-time\",\"productGroup\":\"99A8E7DBCED04A3C95C8584779F7A1E8\",\"purchaseTime\":1601457682166,\"purchaseState\":0,\"purchaseToken\":\"00000174de2a2c17200178a87498e7431ca6c9ad6e4feae055593e450f46f60605903217b8963e18x4259.5.3657\",\"purchaseType\":0,\"currency\":\"USD\",\"price\":699,\"country\":\"BY\",\"quantity\":1,\"payOrderId\":\"SandBox_1601455450833.AA16834E.3657\",\"payType\":\"0\",\"confirmed\":1, \"consumptionState\":0}"
+}
