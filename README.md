@@ -1,11 +1,12 @@
 Huawei IAP
 =======
 
-[![Latest Stable Version](https://poser.pugx.org/stafox/huawei-iap/version.png)](https://packagist.org/packages/stafox/huawei-iap) [![Composer Downloads](https://poser.pugx.org/stafox/huawei-iap/d/total.png)](https://packagist.org/packages/stafox/huawei-iap)
+[![Latest Stable Version](https://poser.pugx.org/stafox/huawei-iap/v)](//packagist.org/packages/stafox/huawei-iap) 
+[![Total Downloads](https://poser.pugx.org/stafox/huawei-iap/downloads)](//packagist.org/packages/stafox/huawei-iap)
 [![Build Status](https://travis-ci.org/stafox/huawei-iap.png?branch=main)](https://travis-ci.org/stafox/huawei-iap)
 [![Code Coverage](https://scrutinizer-ci.com/g/Stafox/huawei-iap/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/stafox/huawei-iap/?branch=main)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/stafox/huawei-iap/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/stafox/huawei-iap/?branch=main)
-[![License](https://poser.pugx.org/stafox/huawei-iap/license.svg)](https://packagist.org/packages/stafox/huawei-iap)
+[![License](https://poser.pugx.org/stafox/huawei-iap/license)](//packagist.org/packages/stafox/huawei-iap)
 
 PHP library that can be used for verifying In-App Purchases for the Huawei's Order and Subscription services.
 
