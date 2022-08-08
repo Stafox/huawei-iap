@@ -12,7 +12,7 @@ PHP library that can be used for verifying In-App Purchases for the Huawei's Ord
 
 ## Requirements
 
-* PHP >= 7.2
+* PHP >= 7.1
 * ext-json
 * ext-curl
 
