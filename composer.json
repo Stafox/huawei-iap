@@ -1,5 +1,5 @@
 {
-  "name": "stafox/huawei-iap",
+  "name": "ozgurky/huawei-iap",
   "description": "Huawei In-App Purchase (IAP) verification library",
   "type": "library",
   "authors": [
@@ -23,7 +23,7 @@
     "MIT"
   ],
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.0",
     "ext-json": "*",
     "ext-curl": "*",
     "guzzlehttp/guzzle": "~6.3|~7.0"
