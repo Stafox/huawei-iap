@@ -1,5 +1,5 @@
 {
-  "name": "stafox/huawei-iap",
+  "name": "ozgurky/huawei-iap",
   "description": "Huawei In-App Purchase (IAP) verification library",
   "type": "library",
   "authors": [
